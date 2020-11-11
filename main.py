@@ -6,4 +6,4 @@ student_sum = sum(myFinalMarks.values())
 
 Average_mark = modules / student_sum  
 
-print('Your averagie mark is', Average_mark)
+print('Your average mark is', Average_mark)
